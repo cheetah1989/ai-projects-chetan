@@ -1,0 +1,7 @@
+Chetan: We have done quiet a few this quarter
+Alek : Yes we have plan activities on 15th Aug 22 Aug
+Srikant : I have one activity on 9th Aug
+Chetan : Okay do we have change request in place ?
+Alek : not yet waiting on QA go ahead.
+Srikant : same for me.
+Chetan : Okay, lets get the Change request and QA in place and connect next week
